@@ -1,0 +1,92 @@
+NOTE : IT SHOULD BE STRICTLY NOTED THAT THIS IS JUST A MODEL AND QUESTIONS IN COMPRE EXAM WILL BE SIMILAR TO THIS NOT NECESSARILY THE SAME,
+THEREFORE TRY LEARNING & GET PROFICIENCY IN TOPICS  AROUND THESE CONCEPTS TOO BASED ON YOUR SYYLABUS
+========================================================================================================
+Exercises Following could be 3- 4 Marks each - try to finish in 6 minutes or less than each
+Code based Questions React+SpringBoot try finishing in 40 Minutes
+Test based Codes try finishing in 25 Minutes
+========================================================================================================
+Q1.You are part of a consultant team involved in optimizing a Library Mgmt System, this system , you are asked to analyse and come out with solutions for the following challenges:
+a) The e-Books which are allowed to be downloaded are taking much time to download and consumes lot of bandwidth hindering the performance, what suggestions you can provide in order to enhance the performance.
+b) Application may involve interactions with other Payment apps or Banking apps for the subscription payments , which might be on other Technologies other than the one which was used to create the LMS - also it has to run on various devices, what architectural style you would suggest like for example a )STand ALone Web Application b) Distributed App c) Web Service (REST or SOAP)d) Mobile App etc
+Substantiate the apt reasons for the same 
+
+Q2) You are part of a consultant team involved in optimizing a Bus Ticket Mgmt System,In order to load the Home Pages much faster,which consists lots of Visualizations and Content, The Team plans to Cache the Pages which can allow faster loading of the pages on the client side,
+As a member of Optimization team, suggest the types of Caching that could be generally used and also explain the one which would be most suitable  in the given situation, also explain the type that can be used in the respective Caching and its sub types.
+
+Q3)As part of the Performance Optimization Team,
+ Explain where and How Minification & Compression techniques , can be used and its advantages to a Software Development Team which is involved in developing a complex software for a STock & Shares Trading Company.
+
+Q4) A Development Team is involved in developing a Private Chatting Solution for an Organization, the team is in a dilemma if they should be implementing a WebHook or a WebSocket, you as part of the consulting team suggest the pros and cons of both the mechanisms and suggest most suitable technique for the given scenario.
+
+Q5) A software solutions team is developing a software for an NGO, where the end users would be people who are mostly disabled with different  disorders like Hearing Impaired, Colour Blinded, Handicapped and so on, what Accessibility measures would you as a Consultant , suggest to ensure smooth accessing of the software by all communities.
+
+Q6) When you are asked to write Tests for a Given React App, which one of the Testing Frameworks would you choose and substantiate (Give apt reasoning) the selection also explain your approach in Creating a Test Suite for the same by giving the various layers of the Test Project and explaining the need for each.
+
+Q7) A software development team involved in creating a security critical application for a Business Unit, using SpringBoot on the back end , wants to depend upon third party Sites like GitHub, FaceBook or Google for Authentication/Authorization
+as a Technology Consultant, you are asked to throw some light on security mechanisms available in SPringBoot Security and give them the best Technique that could be used in the scenario.
+----------------    CODING --------BASED
+Q8)
+As part of a development team involved in developing a Software for Educational Institutions Group , which is Developing a Web Application to Manage all the activities of the Group like Student Mgmt,Course Mgmt,Employees Mgmt, Library Mgmt, Canteen Mgmt & Resource Mgmt.
+1) 
+You are given the task to Deal with Student related activities, Firstly you are asked to create a React based App with atleast 2 Components which could be for
+a) Inserting
+b) Reading  Student details. You can use JS , JSX or TSX 
+1a) should include the respective Routing layer for the same					4+1=5 Marks 
+2)
+Also you are asked to create the Back End Layer of REST APi using SpringBoot with Controller & Repository layer s , assuming that Service & Models are already there...
+Use Appropriate fields and corresponding Data Types. 					4 Marks
+
+3)
+Assuming that you have a FeeCalculator Method, which would calculate the Fee amount for a  given a Course, when clicked on a Button - (You can hard code the Course and give the result - no need to accept it from the user)
+
+Write a Test Suite using JEST for the above function.					3 + 4 Marks
+[3 Marks to write the Component snippet and 4 Marks for Test Suite]
+--------	-------	------	-------	-------	------	--------	------	-----	------	----
+Q9) For the scenario given in Q8 If you are asked to Implement SpringBoot based JWT security feature
+Write the code snippets for Generating JWT Token and the Configuration snippets to authorize the respective endpoints
+
+										3 + 4 Marks
+
+--------	-------	------	-------	-------	------	--------	------	-----	------	----
+Q10) For the scenario given in Q8 If you are asked to implement O-AUth2.0 type security, write the steps involved in implementing O-Auth 2.0 and also write the Configuration snippet either using Application.properties or YAML file
+										3 + 4 Marks
+--------	-------	------	-------	-------	------	--------	------	-----	------	----
+
+Q 11
+
+As part of a development team involved in developing a Software for a Hospital , which is Developing a Web Application to Manage all the activities of the Group like Patient Mgmt,Doctors Mgmt,Pharmacy Mgmt, Departments Mgmt, Canteen Mgmt & Resource Mgmt.
+1) 
+You are given the task to Deal with Patient related activities, Firstly you are asked to create a React based App with atleast 2 Components which could be for
+a) Updating
+b) Deleting  Patient details. You can use JS , JSX or TSX 
+should include the respective Routing layer for the same					4-5 Marks 
+2)
+Also you are asked to create the Back End Layer of REST APi using SpringBoot with Controller & Repository layer s , assuming that Service & Models are already there...
+Use Appropriate fields and corresponding Data Types. 					4 Marks
+
+3)
+Assuming that you have a BillCalculator Method, which would calculate the Bill amount for a  given patientID, when clicked on a Button - (You can hard code the details like Medical Charges-Bed Charges(You can define the essentials here) etc and give the result - no need to accept it from the user)
+
+Write a Test Suite using JEST for the above function.					3 + 4 Marks
+[3 Marks to write the Component snippet and 4 Marks for Test Suite]
+
+------
+
+As part of a development team involved in developing a Software for a Customer Care House , which is Developing a Web Application to Manage all the activities of the Group like Customer Mgmt,Issue Mgmt,Employee Mgmt, Services Mgmt, etc.,
+1) 
+You are given the task to Deal with Issues related activities, Firstly you are asked to create a React based App with atleast 2 Components which could be for
+a) Create an Issue with different states - like Created/Assigned/WIProgress/Resolved
+b) Search  Issue details based on Category You can use JS , JSX or TSX 
+c) View all ISsues
+should include the respective Routing layer for the same					4-5 Marks 
+2)
+Also you are asked to create the Back End Layer of REST APi using SpringBoot with Controller & Repository layer s , assuming that Service & Models are already there...
+Use Appropriate fields and corresponding Data Types. 					4 Marks
+
+3)
+Assuming that you have a TimeCalculator Method, which would calculate the time Consumed to resolve an issuewhen clicked on a Button - (You can hard code the details like start time and resolution time and give the result - no need to accept it from the user)
+
+Write a Test Suite using JEST for the above function.					3 + 4 Marks
+[3 Marks to write the Component snippet and 4 Marks for Test Suite]
+
+  

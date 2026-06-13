@@ -1,0 +1,84 @@
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+Q1)
+As part of expert team of consultancy you are required to create a react app for the Insurance Mgmt System
+team wanted more scalability & interoperability therfore the team has chosen ReactJS as front end framework and springboot as backend tool for restAPI
+a)
+create 2 components (jsx/tsx/js) which can do the following					2.5 X 2 = 5
+1) Register Potential Policy Holder with atleast 5 fields policyHolderId,name,occupation,address
+2) Update the Policy Holder Details
+Implement 2 Components with State mgmt & UI layer , no need to include the CSS /Bootstrap/Tailwind part
+plain html with all controls and event handling to be implemented
+also implement the Router s 
+design the UI part with handler for "submit" action, invoking the restAPI endpoint using fetch or axios
+b) Also create the Controller layer to implement the corresponding request handlers with 2 endpoints through the apt Request Method type & apt Payload which invokes the service layers (assuming the Service & Repository layers to be already defined)
+design the UI part with handler for submit invoking the restAPI endpoint using fetch or axios	2 X 2 = 4
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+Q2
+As part of expert team of consultancy you are required to create a react app for the Insurance Mgmt System
+team wanted more scalability & interoperability therfore the team has chosen ReactJS as front end framework and springboot as backend tool for restAPI
+a)
+b)
+create 2 components (jsx/tsx/js) which can do the following				2.5 X 2 = 5
+1) Register Sales Agency for Zonal level
+2) Delete the Sales Agency Details by accepting 
+Implement 2 Components with State mgmt & UI layer , no need to include the CSS /Bootstrap/Tailwind part
+plain html with all controls and event handling to be implemented
+also implement the Router s 
+design the UI part with handler for "submit" action, invoking the restAPI endpoint using fetch or axios	2 X 2 = 4
+b) Also create the Controller layer to implement 2 of the corresponding request handlers with 2 endpoints through the apt Request Method type & apt Payload which invokes the service layers (assuming the Service & Repository layers to be already defined)
+
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+Q3
+A web  application has been developed by  "RMZ Solutions",  a very reputed IT Services firm, the application Deals with a  System used by a Govt staff to upload the documents provided by the citizens for the Housing & Constructions and also providing a facility for the citizens to download the approved documents
+ 
+Currently these modules are developed and the teams are finding that the  following performance related issues persist and they want an expert team to optimize the systems,
+Uploading & Downloading consumes huge amount of time
+As part of the expert team you are required to analyse the above situations and suggest suitable Performance related factors that can be adopted and optimization techniques that can be used 
+a) Identify the Performance Enhancement factors/features that can be used					
+b) Explain the same in detail about those techniques(atleast 2 in detail) 						
+c) Also discuss about few Performance metrics that would be handy in the above situation			
+											 
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+
+Q4
+A software system developed for the Election Commission has to allow the officials to view the street wise citizens in an area, since the main database has lakhs of records and since officials wanted to view only one part of the records at a time therefore to improve performance they want your consultancy to suggest a best way to view the results, so that resource can be utilized effectively.
+Suggest the best method/optimization technique that could be used as well as explain the types and features    of the same
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+
+Q5
+You are creating an UI with JS for a simple web app which involves 2 methods to do the following
+a) Write a simple function to find the average of the scores sent to the method as an array of integers
+b) Write a simple function to find the compund interest with necessary parameters
+
+a) write JS functions for the above 							2 X 2 = 4 Marks
+b) Write atleast 2 tests for each of the above function using Mocha & Chai			2 X 2 = 4 Marks						
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+
+Q6
+You are creating an UI with ReactJS for a simple web app which involves 2 methods to do the following
+Write a  simple component which takes two text boxes to accept the scores in 5 subjects when clicked on a submit button
+it should display the sum and average
+
+Write JEST based test cases for the above
+										
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+Q7
+A Business Unit wants your software company to develop a very robust software to handle the shipping corporation 's Cargo related data, since highly confidential content is transported , they want you to provide a multifactor authentication technique
+including the JWT as one of the factors
+You are requested to explain the client How the JWT works in detail about the architecture of the same and the working principle of the same.
+
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+Q8
+Give atleast a scenario in detail where OAuth can be implemented in a best possible way also explain the OAuth features and its mechanism how it is implemented.
+xxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxXxxxxxxxxxX
+Q9
+Explain the Principle how Event Handling is implemented in general and explain the Reflow method in the context of DOM 
+
+
+
+
+
+
+										
